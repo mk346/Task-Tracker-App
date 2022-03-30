@@ -1,0 +1,2 @@
+// This is an exercise tracker application that enables the user to create different exercises based on their schedule
+// Its a simple Mern Application demonstrating the interaction between Node js, Mongo DB, React js and Express framework
